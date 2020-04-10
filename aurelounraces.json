@@ -18,8 +18,8 @@
 	},
 	"race": [
 		{
-			"name": "Awakened Skeleton",
-			"source": "Giddy",
+			"name": "Half-dwarf",
+			"source": "ARL",
 			"ability": [
 				{
 					"cha": -4,
